@@ -1,4 +1,4 @@
-##Olá, Eu sou Filipe Henrique, Seja bem vindo(a)!!
+## Olá, Eu sou Filipe Henrique, Seja bem vindo(a)!!
 
 - 🔭 Atualmente estou praticando projetos de Front-end
 - 🌱 Estou aprendendo algumas ferramentas importantes para o front, como: TailWind, JQuery, SCSS, Svelte...
