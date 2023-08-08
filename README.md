@@ -1,7 +1,7 @@
 ## Olá, Eu sou Filipe Henrique, Seja bem vindo(a)!!
 
-- 🔭 Atualmente estou praticando projetos de Front-end
-- 🌱 Estou aprendendo algumas ferramentas importantes para o front, como: TailWind, JQuery, SCSS, Svelte...
+- 🔭 Atualmente estou estudando Java em um projeto sem fins lucrativos (Projeto Start, Rede cidadã PE)
+- 🌱 Estou praticando um projeto de Máquina do tempo, servirá como meu portfólio mais atualizado
 - 📫 Contate-me: ffilipehhenrique@gmail.com || <a href="https://fhenric.github.io/FHenrique-Portfolio/" target="_blank">Portfólio<a>
 - 😄 Pronomes: Ele/Dele
 
